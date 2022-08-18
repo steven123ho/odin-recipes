@@ -1,0 +1,36 @@
+h1, h3 {
+    color:peru;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: bold;
+}
+
+
+p {
+    color:black;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: 47%;
+    margin-right: auto;
+    width: 10%;
+    height:auto;
+}
+
+li {
+    color:peru;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 36%;
+    margin-right:auto;
+}
+
+a {
+    color:peru;
+}
